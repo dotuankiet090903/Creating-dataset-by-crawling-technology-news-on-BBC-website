@@ -7,20 +7,20 @@ The goal of this project is to create a summarized dataset from technology-relat
 
 - Tools Used:
 
-requests → Sends HTTP requests to fetch web pages.
+    - requests → Sends HTTP requests to fetch web pages.
 
-BeautifulSoup → Parses and extracts content from HTML.
+    - BeautifulSoup → Parses and extracts content from HTML.
 
 ## Summarization Approach
 - Model Used: We utilize Flan-T5 (base), a pre-trained transformer model specialized in text summarization.
 
 - Purpose: The generated summaries help in:
 
-Providing high-quality training data.
+    - Providing high-quality training data.
 
-Reducing processing time for NLP models.
+    - Reducing processing time for NLP models.
 
-Enhancing model efficiency and performance.
+    - Enhancing model efficiency and performance.
 
 ## Dataset Overview
 The dataset after created consists of two parts:
